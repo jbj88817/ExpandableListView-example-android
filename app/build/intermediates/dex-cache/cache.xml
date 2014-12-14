@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0dcc55e70f7ebf7238fe2ec53f662eb378ab2668">
+        <dex dex="/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-3f826358aa05d8c3f551a455edf39339acb22444.jar" />
+    </item>
+    <item
+        jar="/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-fc4a6909d959c3596bbba5035e0dff01bff4f0e2.jar" />
+    </item>
+    <item
+        jar="/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/pre-dexed/debug/classes-0aa54f9d52989ff04ac3f8995219211799f30104.jar" />
+    </item>
+    <item
+        jar="/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c2071dcaf7a008c3b01a6381a33be55396bab09">
+        <dex dex="/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/pre-dexed/debug/classes-e4b9f58659cd40bec25bb30a5ff602d3d4fd2601.jar" />
+    </item>
+    <item
+        jar="/Users/bojiejiang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-11231d7215ea971321ae151a23f962a880142b52.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,6 @@
+/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/classes/debug
+/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-3f826358aa05d8c3f551a455edf39339acb22444.jar
+/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-11231d7215ea971321ae151a23f962a880142b52.jar
+/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/pre-dexed/debug/classes-e4b9f58659cd40bec25bb30a5ff602d3d4fd2601.jar
+/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-fc4a6909d959c3596bbba5035e0dff01bff4f0e2.jar
+/Users/bojiejiang/AndroidStudioProjects/ExpandableListView/app/build/intermediates/pre-dexed/debug/classes-0aa54f9d52989ff04ac3f8995219211799f30104.jar
